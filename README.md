@@ -1,5 +1,5 @@
 
-### Hi, I'm Nataliia Skydanenko
+### Hi, I'm Nataliia Skydanenko 👋
 
 <!--
 **NataliSkidanenko/NataliSkidanenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
