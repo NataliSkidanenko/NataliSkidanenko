@@ -1,5 +1,7 @@
 
 ![Без названия](https://user-images.githubusercontent.com/98416995/215166319-51386812-8140-4550-a688-489ed0aaf938.png)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NataliSkidanenko)](https://git.io/streak-stats)
+
 <!--
 **NataliSkidanenko/NataliSkidanenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
