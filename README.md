@@ -1,5 +1,5 @@
-### Hi there 👋
 
+![Без названия](https://user-images.githubusercontent.com/98416995/215166319-51386812-8140-4550-a688-489ed0aaf938.png)
 <!--
 **NataliSkidanenko/NataliSkidanenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
